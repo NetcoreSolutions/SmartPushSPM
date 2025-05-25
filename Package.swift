@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .target(name: "SmartPushSPM"),
         .binaryTarget(name: "SmartPush",
-                      url: "https://github.com/NetcoreSolutions/SmartPushSPM/releases/download/3.5.5/SmartPush.xcframework.zip",
-                     checksum: "9c3ea067daf8f8118086e3161d3cacc9d9529f24178cb03b480246a438df418a")
+                      url: "https://github.com/NetcoreSolutions/SmartPushSPM/releases/download/3.5.6/SmartPush.xcframework.zip",
+                     checksum: "f9fc1125a6901fb659637a4162de282a31a8716068196f0af363b029434e9b71")
     ]
 )
